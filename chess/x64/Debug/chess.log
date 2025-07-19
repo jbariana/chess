@@ -1,0 +1,16 @@
+﻿  Game.cpp
+D:\jbari\Desktop\repos\chess\Board.h(4,14): warning C4091: 'static ': ignored on left of 'Board' when no variable is declared
+  (compiling source file 'Game.cpp')
+  
+D:\jbari\Desktop\repos\chess\Player.h(4,14): warning C4091: 'static ': ignored on left of 'Player' when no variable is declared
+  (compiling source file 'Game.cpp')
+  
+  main.cpp
+D:\jbari\Desktop\repos\chess\Board.h(4,14): warning C4091: 'static ': ignored on left of 'Board' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\jbari\Desktop\repos\chess\Player.h(4,14): warning C4091: 'static ': ignored on left of 'Player' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+  chess.vcxproj -> D:\jbari\Desktop\repos\chess\x64\Debug\chess.exe
